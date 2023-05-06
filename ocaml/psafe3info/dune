@@ -1,0 +1,4 @@
+(executable
+ (name psafe3info)
+ (libraries core bitstring)
+ (preprocess (pps ppx_bitstring)))
