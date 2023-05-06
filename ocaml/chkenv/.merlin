@@ -1,0 +1,7 @@
+PRJ chkenv
+S src
+
+PKG unix
+PKG str
+
+B _build/src

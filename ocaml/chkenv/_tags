@@ -1,0 +1,4 @@
+<src/**>: include
+true:	  package(unix)
+true:	  package(str)
+true:	  bin_annot
